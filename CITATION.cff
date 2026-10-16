@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+type: software
+title: "SWACDB_usage_example: code to load and plot the smartwatch and 12-lead ECG database"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/ispmor/SWACDB_usage_example"
+authors:
+  - family-names: Puszkarski
+    given-names: Bartosz
+references:
+  - type: database
+    title: "Simultaneous smartwatch and 12-lead electrocardiograms from healthy adults at rest before and after exercise"
+    authors:
+      - family-names: Puszkarski
+        given-names: Bartosz
+      - family-names: Ghafour
+        given-names: Izabela
+      - family-names: Petelczyc
+        given-names: Monika
+      - family-names: Hryniów
+        given-names: Krzysztof
+      - family-names: Buchner
+        given-names: Teodor
+      - family-names: Iwanowski
+        given-names: Marcin
+    publisher:
+      name: PhysioNet

@@ -1,0 +1,5 @@
+wfdb>=4.3.1
+numpy>=2.2
+pandas>=2.3
+scipy>=1.15
+matplotlib>=3.10
