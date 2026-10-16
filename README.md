@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1422146995.svg)](https://doi.org/10.5281/zenodo.23418089)
+
 # SWACDB usage example
 
 Example code for the PhysioNet database *Simultaneous smartwatch and 12-lead electrocardiograms from healthy adults at rest before and after exercise*: 647 smartwatch lead I ECGs of 30 s (Garmin Venu 3), recorded during continuous 12-lead ECG from 32 healthy adults at rest before and after cycle-ergometer exercise, with a table aligning each window to its 12-lead segment.
